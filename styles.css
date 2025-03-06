@@ -42,6 +42,12 @@ h1 {
 [type="text"], [type="email"], [type="number"],[name="country"], [name="favourite"], button, [rows="5"] {
     font-size: 0.9375rem;
     padding: 0.7em;
+    background: none;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
 }
 
 .input-group {
